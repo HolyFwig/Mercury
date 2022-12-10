@@ -5,16 +5,12 @@ Mercury is a privacy focused service that you can download locally and run on an
 
 ## Alternative Download Links
 
-[Celestial]()
-
-[Google Drive]()
-
-[Mediafire]()
+[Google Drive (v1.0.0-alpha](https://drive.google.com/drive/folders/1VSP7FVG7RNAuYXA7gfqFNjXGJ4lxTisu)
 
 ## Setup Guide
 
 ### Step 1: Download the files
-On the github, click on the code button, scroll and then click on "Download ZIP". If GitHub is blocked for you, please refer to the Alternative Download Links section.
+Go to the releases, and download the latest version currently up. If GitHub is blocked for you, please refer to the Alternative Download Links section.
 
 ### Step 2: Unzip
 Go to your files, go to downloads, right click if you're using a mouse or click with two fingers if you're using a trackpad, the click "Extract All..."
