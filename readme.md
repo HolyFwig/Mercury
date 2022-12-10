@@ -5,7 +5,7 @@ Mercury is a privacy focused service that you can download locally and run on an
 
 ## Alternative Download Links
 
-[Google Drive (v1.0.0-alpha](https://drive.google.com/drive/folders/1VSP7FVG7RNAuYXA7gfqFNjXGJ4lxTisu)
+[Google Drive (v1.0.0-alpha)](https://drive.google.com/drive/folders/1VSP7FVG7RNAuYXA7gfqFNjXGJ4lxTisu)
 
 ## Setup Guide
 
